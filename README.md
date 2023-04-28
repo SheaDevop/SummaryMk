@@ -1,0 +1,1 @@
+This is a UI designed so that you can paste a url, interact with GPT-4 and receive a short summary of the content of the page you pasted before in the input. 
